@@ -1,0 +1,2 @@
+# loops_exercise_py
+The following questions are based on data on Oscar Award Nominations for Best Director between the years 1931 to 2010. To start you off, we've provided a dictionary called "nominated" with the year (as key) and list of directors who were nominated in that year (as value). We've provided you with a different dictionary called "winners" with the year (as key) and list of directors who won the award in that year (as value).
